@@ -29,9 +29,14 @@ I'm Developer and IT Specialist, Electronic Engineer. Brithyear: 1997.
 ## Projects:
 
 ## Contact Me:
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) amilsn7@gmail.com <br>
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/sn-amil/
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[1]
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[2]
+![messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)[3]
 
+
+[1]: mailto:amilsn7@gmail.com
+[2]: https://www.linkedin.com/in/sn-amil/
+[3]: https://www.facebook.com/amilatakishisoy/
 
 
 **sn-amil/sn-amil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
