@@ -57,7 +57,7 @@ https://www.neansoft.com
 [3]: https://www.facebook.com/amilatakishisoy/
 
 ## My Statistics:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn-amil&theme=vue-dark&show_icons=true)](https://github.com/sn-amil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn-amil)](https://github.com/anuraghazra/github-readme-stats)
 ![Ayna's github stats](https://github-readme-stats.vercel.app/api?username=sn-amil&theme=vue-dark&show_icons=true)
 
 <hr>
