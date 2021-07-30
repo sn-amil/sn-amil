@@ -1,4 +1,5 @@
-### Hi  Everyone! Amil Atakishisoy 👋
+## Hi  Everyone! Amil Atakishisoy 👋
+<hr>
 
 My full name is Amil Atakishisoy. 
 
