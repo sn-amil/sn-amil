@@ -50,6 +50,8 @@ https://www.neansoft.com
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][1]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 [![messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)][3]
+
+
 [1]: mailto:amilsn7@gmail.com
 [2]: https://www.linkedin.com/in/sn-amil/
 [3]: https://www.facebook.com/amilatakishisoy/
