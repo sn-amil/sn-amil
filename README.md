@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi  Everyone! Amil Atakishisoy 👋
 
+My full name is ###Amil Atakishisoy. 
 <!--
 **sn-amil/sn-amil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
