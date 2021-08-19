@@ -1,0 +1,60 @@
+Tarix: 31.07.2021
+Yazar: S-n Amil
+------------------------
+
+Git Əmrləri (GitBash proqramında https://git-scm.com/downloads)
+
+Qurulması:
+git config --global user.name "istifadəçi adı"
+git config --global user.email "masiladı@mail.com"
+(test etmək üçün: git config --global user.email və git config --global user.name yaz yaz)
+
+----------------------------------------------------
+git version - git versiyası (həm də git tam yüklü olduğunu test edir).
+pwd - olduyu yeri C:/qovuq/alt_qovluq (path - qovluq yolunu) göstərir.
+ls - listdir. Fayl/qovluq siyahısını, listini ekranda göstərir.
+cd - change directory. Qovluğu Git-ə daxil etmək. GitBash üçün.
+init - Git olunmalı qovluq içində .git project (gizli .git qovluğu) yaradır.
+clear (ctrl+l) - ekrandakı kodları təmizləmək. Ekrandakı yazıları silmək.
+git add . - faylı əlavə etmək. Keçici/aralıq yaddaşa (staging area) faylı yazır.
+git commit -m "commit adi" - versiya yaradır (sonradan dəyişiklikləri geri qayıtmaq üçün.
+                             (git depoya (Repo/Anbar) yazır.).
+                              (project içində .git qovluğuna yazır)
+git log - Qeydlər. Versiyaları/Dəyişiklik logları commitləri ekranda göstərir.
+git status - Durumu göstərir. Qovluqdakı fayllar əlavə edilməsi, silinməsi haqda ekranda bilgi göstərir. 
+             (bir yardımçı rəhbər əmrdi, çətinlik olanda bunu yaz - ekranda nə edəcəyini/təlimatları yazır)
+git diff - faylın içindəki dəyişiklikləri göstərir.
+git rm fayladi - faylı silmək.
+git rm -r qovluqadi/ - qovluğu silmək.
+git checkout -- - dəyişiklikləri geri qaytarmaq, əvvəlki vəziyyətinə gətirmək, versiyadan silinənləri geri gətirmək - bərpa etmək.
+---------------------------------------------------
+
+Github hesabına project göndərmə/yükləmə:
+
+git remote add githubRepo https://github.com/sn-amil/My-Projects-Portfolio
+git remote - yoxlamaq test etmək
+git push -u githubRepo main - github hesabına project göndərmə
+git pull - yükləmək
+git branch - qol/şaxə yoxlamaq
+git branch --all - bütün qol/şaxə yoxlamaq
+git checkout yeniqoladi - o qola keçmək
+git merge qoladi - altqolu master qola birləşdirmək
+
+
+---------------------------------------------------
+clone - projecti klonlamaq, kopyasını yükləmək. github, gitlab (ya da başqa git servisindən) projecti öz kompüterinə yükləmək.
+push - göndərmə (projecti github-a upload etmək, faylları yaddaş serverinə göndərmə).
+pull - yükləmə (sırf commit (dəyişiklik) edilən faylı yükləmək, başqa bir adam sırf faylın yeni versiyanın yükləyir pull edir).
+release - projecti yayımlamaq. proyektin tam versiyası hazır olduqda release edilir (ən son güncəl/yeniliklər versiyası paylaşılır.)
+branch - qol/şaxə. Bir project üstündə birdən çox adam (komanda/yığma) çalışa bilsin deyə projectin alt qolllara/şaxələrə -branchlara bölünməsi.
+(ormalda githubd-da bir project master qolunda paylaşılır, amma sizin proyektdə data-base işini ayrı adam, dizaynı ayrı adam görürsə
+ onda hərəsi üçün ayrı qol yaratmaq lazımdır ki, sonra onlar ən son yeniliyi - günlər kodu master (ana qolda) paylaşa bilsin. 
+ hər kəsə githubda ilk olaraq master qovluğu görünür. Branch bunun üçündür).
+pull requests - İstəkləri çək. Etdiyin dəyişiklikləri (alt qoldakı branch içindəki dəyişikliyi/commiti) yuxarıya Master Branch-a bildirmək üçündü. 	
+ (yəni siz alt branch-da çalışırsızsa sizin kodları yuxarı ana qola daşımaq üçün seçimdir).
+pull = fetch (yükləmək/çəkmək) + merge (birləşdirmək) 
+
+
+
+--------------------------------------------
+©S-n Amil (github.com/sn-amil) - 31.07.2021
