@@ -53,6 +53,6 @@ https://www.neansoft.com
 
 ## Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn-amil&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Ayna's github stats](https://github-readme-stats.vercel.app/api?username=sn-amil&theme=radical&show_icons=true)
+![Amil's github stats](https://github-readme-stats.vercel.app/api?username=sn-amil&theme=radical&show_icons=true)
 
 <hr>
