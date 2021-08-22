@@ -10,8 +10,7 @@ Location: Azebaijan
 
 ## Hi  Everyone! Amil Atakishisoy 👋
 
-## About Me:
-I'm Developer and IT Specialist, Amateur Electronic Engineer. Brithyear: 1997. Nataionality: Azerbaijan/Turk. 
+**About Me: I'm Developer and IT Specialist, Amateur Electronic Engineer. Brithyear: 1997. Nataionality: Azerbaijan/Turk.**
 
 ## Projects:
 https://github.com/sn-amil/My-Projects-WEB <br>
