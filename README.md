@@ -1,23 +1,14 @@
 <!-- 
 Author: S-n Amil
 Created Date: 30.07.2021
-Updated Date: xx.xx.xxxx
+Updated Date: 22.08.2021
 Location: Azebaijan
 
 (c) this readme file created by Amil Atakishisoy
 -->
 
 
-
-
-
-
-
-
-
-
-<h3> Hi  Everyone! Amil Atakishisoy 👋 </h3> 
-<hr>
+## Hi  Everyone! Amil Atakishisoy 👋
 
 ## About Me:
 I'm Developer and IT Specialist, Amateur Electronic Engineer. Brithyear: 1997. Nataionality: Azerbaijan/Turk. 
