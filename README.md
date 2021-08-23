@@ -49,7 +49,7 @@ Location: Azebaijan
 [2]: https://www.linkedin.com/in/sn-amil/
 [3]: https://www.facebook.com/amilatakishisoy/
 
-## 📈 Statistics:
+## 📊 Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn-amil&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Amil's github stats](https://github-readme-stats.vercel.app/api?username=sn-amil&theme=radical&show_icons=true)
 
