@@ -1,5 +1,8 @@
 ## Emojies for Github by S-n Amil 
 
+</> Code Editors
+icons for code, for developer, readme file
+
 > ©️ **Author:** S-n Amil <br>
 > 📅 **Created Date:** 23.08.2021 <br>
 > 🔄 **Updated Date:** 23.08.2021 <br>
