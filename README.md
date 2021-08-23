@@ -39,7 +39,7 @@ Location: Azebaijan
 **Test OS:** `Windows (xp, vista, 7, 8, 10, 11)`, `Linux (Kali, Ubuntu)`, `Andorid (4.2 - Present)` <br>
 **Editors:** `Notepad++`, `Visual Studio Code`, `Visaul Studio 2010-2019`, `Android Studio`, `Eclipse`, `Dev C++` <br>
 
-## ℹ️ Contact Me (for CV):
+## 👤 Contact Me (for CV):
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][1]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 [![messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)][3]
