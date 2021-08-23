@@ -11,19 +11,23 @@
 &nbsp;
 &nbsp;
 
-## 📂 Projects (`:smile:`)
-## kod
-## #️⃣ #hashtag <br>
-## 📌 Note
+## 📂 Projects:
+## 🔤 Interface Languages:
+## 🖥️ Programming Languages:
+## 📊 Statistics:
 <h2>
    ℹ️ About <br>
    ℹ️ Description <br>
    ℹ️ İnfo <br>
 </h2>
-## kod
-  
 
+## 💡 New İdeas:
+## #️⃣ #hashtag
+## 📌 Note
+## 🛠 Use İt: i used 
+## 👤 Contact Me (for CV): connect me 🚺
 
+## 🔗 Source Link 
+ 🔄 **Updated Date: modified date
 
-## kod
-©️ this readme file created by S-n Amil 23.08.2021
+©️ this readme file was created by S-n Amil 23.08.2021
