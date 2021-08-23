@@ -1,7 +1,9 @@
 ⚠️ Daha Çoxu: 
 https://github.com/sn-amil/github-readme-stats <br>
 ⚠️ Emojilər: 
-https://gist.github.com/rxaviers/7360908
+https://gist.github.com/rxaviers/7360908 <br>
+
+<br>
 🛠️ 
 
 ## My Custom Projects.
@@ -18,6 +20,35 @@ https://gist.github.com/rxaviers/7360908
 > [urlencoder.org](https://www.urlencoder.org/) to help you do this automatically.
 
 
+## 👋 Hi  Everyone! Amil Atakishisoy
+
+**About Me: I'm Developer and IT Specialist, Amateur Electronic Engineer. Brithyear: 1997. Nataionality: Azerbaijan/Turk.**
+
+## 📂 Projects:
+> https://www.neansoft.com <br>
+> https://github.com/sn-amil/My-Projects-WEB
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+## 🖥️ Programming Languages:
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logoColor=007ACC)&nbsp;
+
+## 🛠 Use İt:
+**Test OS:** `Windows (xp, vista, 7, 8, 10, 11)`, `Linux (Kali, Ubuntu)`, `Andorid (4.2 - Present)` <br>
+**Editors:** `Notepad++`, `Visual Studio Code`, `Visaul Studio 2010-2019`, `Android Studio`, `Eclipse`, `Dev C++` <br>
+
+## ℹ️ Contact Me (for CV):
+
+## 📊 Statistics:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn-amil&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Amil's github stats](https://github-readme-stats.vercel.app/api?username=sn-amil&theme=radical&show_icons=true)
+
+<hr>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
