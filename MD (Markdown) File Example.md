@@ -1,6 +1,6 @@
 ⚠️ Daha Çoxu: 
-https://github.com/sn-amil/github-readme-stats
-Emojilər: 
+https://github.com/sn-amil/github-readme-stats <br>
+⚠️ Emojilər: 
 https://gist.github.com/rxaviers/7360908
 🛠️ 
 
