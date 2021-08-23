@@ -16,14 +16,14 @@
 ## 🖥️ Programming Languages:
 ## 📊 Statistics:
 <h2>
-   ℹ️ About <br>
-   ℹ️ Description <br>
-   ℹ️ İnfo <br>
+   ℹ️ About: <br>
+   ℹ️ Description: <br>
+   ℹ️ İnfo: <br>
 </h2>
 
 ## 💡 New İdeas:
 ## #️⃣ #hashtag
-## 📌 Note
+## 📌 Note:
 ## 🛠 Use İt: i used 
 ## 👤 Contact Me (for CV): connect me 🚺
 
