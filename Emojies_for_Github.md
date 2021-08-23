@@ -4,7 +4,7 @@
 > 📅 **Created Date:** 23.08.2021 <br>
 > 🔄 **Updated Date:** 23.08.2021 <br>
 > 🇦🇿 **Location:** Azerbaijan <br>
-> ℹ️ **Description:** 
+> ℹ️ **Description:** View all emojies https://gist.github.com/rxaviers/7360908
 
 &nbsp;
 &nbsp;
