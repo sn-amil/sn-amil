@@ -35,7 +35,7 @@ Location: Azebaijan
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logoColor=007ACC)&nbsp;
 
 
-## 🧰 Use İt:
+## 🛠 Use İt:
 **Test OS:** `Windows (xp, vista, 7, 8, 10, 11)`, `Linux (Kali, Ubuntu)`, `Andorid (4.2 - Present)` <br>
 **Editors:** `Notepad++`, `Visual Studio Code`, `Visaul Studio 2010-2019`, `Android Studio`, `Eclipse`, `Dev C++` <br>
 
