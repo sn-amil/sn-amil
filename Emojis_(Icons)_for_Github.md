@@ -47,7 +47,7 @@
 </h2>
 <h2>
    🔄 Last Updated: <br>
-   🔄 Modfied Date: <br>
+   🔄 Modified Date: <br>
 </h2>
 <h2>
    ℹ️ About: <br>
