@@ -6,7 +6,7 @@
 > 🇦🇿 **Location:** Azerbaijan <br>
 > 
 > ℹ️ **Description:** This Emojis (İcons) are arranged according to the meaning of the words for README.md (Markdown file).
->                     All Emojis codes: https://gist.github.com/rxaviers/7360908 or https://gist.github.com/ricealexander/ae8b8cddc3939d6ba212f953701f53e6
+>                     All Emojis codes: https://gist.github.com/rxaviers/7360908 or https://www.webfx.com/tools/emoji-cheat-sheet/
 >                     And for other creative readme profiles list: https://github.com/coderjojo/creative-profile-readme <br>
 
 &nbsp;
