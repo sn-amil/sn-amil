@@ -6,7 +6,7 @@
 > 🇦🇿 **Location:** Azerbaijan <br>
 > 
 > ℹ️ **Description:** This Emojis (İcons) are arranged according to the meaning of the words for README.md (Markdown file).
->                     All Emojis codes: https://gist.github.com/rxaviers/7360908 or edit this .md file.
+>                     All Emojis codes: https://gist.github.com/rxaviers/7360908 or https://gist.github.com/ricealexander/ae8b8cddc3939d6ba212f953701f53e6
 >                     And for other creative readme profiles list: https://github.com/coderjojo/creative-profile-readme <br>
 
 &nbsp;
@@ -62,7 +62,8 @@
 ## ✔️ [completed] **[fixed]** **[done task]**
 ## ➖ [to do]
 ## (❗) Error:
-## 🚫 Forbidden! 
+## 🚫 Forbidden!#
+## ❓ Question
 ## 🆕 Releases: 
 ## 💡 New İdeas:
 ## 📥 Download
@@ -84,4 +85,4 @@
 ## 🆓 (free)
 
 <hr>
-©️ this readme file was created by S-n Amil 23.08.2021
+©️ this readme file was created by S-n Amil - 23.08.2021
