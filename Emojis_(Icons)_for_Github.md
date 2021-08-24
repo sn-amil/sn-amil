@@ -46,7 +46,7 @@
     📅 Upload Date: <br>
 </h2>
 <h2>
-   🔄 Updated Date: <br>
+   🔄 Last Updated: <br>
    🔄 Modfied Date: <br>
 </h2>
 <h2>
