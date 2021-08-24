@@ -1,7 +1,7 @@
 <!-- 
 Author: S-n Amil
 Created Date: 30.07.2021
-Updated Date: 23.08.2021
+Last Updated: 24.08.2021
 Location: Azebaijan
 -->
 
@@ -13,6 +13,7 @@ Location: Azebaijan
 ## 📂 Projects:
 > ~ https://www.neansoft.com <br>
 > ~ https://github.com/sn-amil/My-Projects-WEB
+> ~ https://github.com/sn-amil/sn-amil/
 
 &nbsp;
 &nbsp;
