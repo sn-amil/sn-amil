@@ -55,14 +55,14 @@
    ℹ️ İnfo: <br>
 </h2>
 <h2>
-   📎 Source:
-   🔗 Link:
+   📎 Source: <br>
+   🔗 Link: <br>
 </h2>
 
 ## ✔️ [completed] **[fixed]** **[done task]**
 ## ➖ [to do]
 ## (❗) Error:
-## 🚫 Forbidden!#
+## 🚫 Forbidden!
 ## ❓ Question
 ## 🆕 Releases: 
 ## 💡 New İdeas:
