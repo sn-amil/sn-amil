@@ -11,8 +11,8 @@ Location: Azebaijan
 **About Me: I'm Developer and IT Specialist, Amateur Electronic Engineer. Brithyear: 1997. Nataionality: Azerbaijan/Turk.**
 
 ## 📂 Projects:
-> https://www.neansoft.com <br>
-> https://github.com/sn-amil/My-Projects-WEB
+> - https://www.neansoft.com <br>
+> - https://github.com/sn-amil/My-Projects-WEB
 
 &nbsp;
 &nbsp;
