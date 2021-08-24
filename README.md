@@ -16,10 +16,6 @@ Location: Azebaijan
 > ~ https://github.com/sn-amil/sn-amil/ <br>
 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 
 ## 🖥️ Programming Languages:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
