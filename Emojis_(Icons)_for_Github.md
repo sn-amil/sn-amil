@@ -28,11 +28,23 @@
 ## :octocat: Github Account:
 ## 🔔 Notifications
 ## ⚠️ Warning: 
-## 👨‍💻 Developer, Software Engineer (man)
-## 👩‍💻 Developer, Sofware Engineer (women)
+
+<h2>
+   👨‍💻 Developer: (man) <br>
+   👨‍💻 Coder: (man) <br>
+   👨‍💻 Programmer: (man) <br>
+   👨‍💻 Software Engineer: (man) <br>
+</h2>
+<h2>
+   👩‍💻 Developer: (woman) <br>
+   👩‍💻 Coder: (woman) <br>
+   👩‍💻 Programmer: (woman) <br>
+   👩‍💻 Software Engineer: (woman) <br>
+</h2>
 <h2>
    👤 Contact Me (for CV): <br>
-   👤 Connect Me: <br>
+   👤 Connect with Me: <br>
+   👤 How to reach Me Me: <br>
 </h2>
 
 ## 📞 Phone Number:
@@ -58,8 +70,13 @@
    📎 Source: <br>
    🔗 Link: <br>
 </h2>
+<h2>
+   ✔️ [completed] <br>
+   ✔️ [fixed] <br>
+   ✔️ [done task] <br>
+   ✔️ [finished] <br>
+</h2>
 
-## ✔️ [completed] **[fixed]** **[done task]**
 ## ➖ [to do]
 ## (❗) Error:
 ## 🚫 Forbidden!
