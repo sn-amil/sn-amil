@@ -12,8 +12,8 @@ Location: Azebaijan
 
 ## 📂 Projects:
 > ~ https://www.neansoft.com <br>
-> ~ https://github.com/sn-amil/My-Projects-WEB
-> ~ https://github.com/sn-amil/sn-amil/
+> ~ https://github.com/sn-amil/My-Projects-WEB/ <br>
+> ~ https://github.com/sn-amil/sn-amil/ <br>
 
 &nbsp;
 &nbsp;
