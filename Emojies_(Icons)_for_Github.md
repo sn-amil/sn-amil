@@ -1,14 +1,13 @@
-## Emojies (Icons) for Github by S-n Amil 
-
-</> Code Editors
-icons for code, for developer, readme file
+## Emojies (Icons) for Github by S-n Amil
 
 > ©️ **Author:** S-n Amil <br>
 > 📅 **Created Date:** 23.08.2021 <br>
 > 🔄 **Updated Date:** 23.08.2021 <br>
 > 🇦🇿 **Location:** Azerbaijan <br>
 > 
-> ℹ️ **Description:** Emojies (Icons) codes: https://gist.github.com/rxaviers/7360908
+> ℹ️ **Description:** This Emojies (İcons) are arranged according to the meaning of the words for README.md (Markdown file).
+>                     View icons codes: https://gist.github.com/rxaviers/7360908 or edit this .md file.
+>                     and for other creative readme profiles: https://github.com/coderjojo/creative-profile-readme
 
 &nbsp;
 &nbsp;
