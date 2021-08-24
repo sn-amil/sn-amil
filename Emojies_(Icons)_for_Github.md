@@ -22,6 +22,7 @@
 ## 🛠 Skills/ Use İt:
 ## 💼 Personal Experience:
 ## 🎓 Education:
+## 🏆 Achievements:
 ## 📌 Note:
 ## 📊 Statistics:
 ## :octocat: Github Account:
