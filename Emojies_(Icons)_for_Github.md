@@ -7,7 +7,7 @@
 > 
 > ℹ️ **Description:** This Emojies (İcons) are arranged according to the meaning of the words for README.md (Markdown file).
 >                     All Emojies codes: https://gist.github.com/rxaviers/7360908 or edit this .md file.
->                     and for other creative readme profiles: https://github.com/coderjojo/creative-profile-readme <br>
+>                     And for other creative readme profiles list: https://github.com/coderjojo/creative-profile-readme <br>
 
 &nbsp;
 &nbsp;
