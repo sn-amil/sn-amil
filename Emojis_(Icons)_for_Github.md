@@ -3,7 +3,7 @@
 > ©️ **Author:** S-n Amil <br>
 > 📅 **Created Date:** 23.08.2021 <br>
 > 🔄 **Last Updated:** 28.08.2021 <br>
-> 🌐 **Website:** www.neansoft.com
+> 🌐 **Website:** www.neansoft.com <br>
 > 
 > ℹ️ **Description:** This Emojis (İcons) are arranged according to the meaning of the words for README.md (Markdown file).
 >                     All Emojis codes: https://gist.github.com/rxaviers/7360908 or https://www.webfx.com/tools/emoji-cheat-sheet/
@@ -52,6 +52,7 @@
 ## 🌐 Website:
 ## ©️ Author:
 ## 🏢 Company:
+## 💌 Support:
 
 <h2>
     📅 Date: <br>
