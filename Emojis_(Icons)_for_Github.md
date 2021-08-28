@@ -30,7 +30,12 @@
 ## 🎓 Education:
 ## 🏆 Achievements:
 ## 📌 Note:
-## 📊 Statistics:
+
+<h2>
+   📊 Statistics: <br>
+   📊 Github Analytics: <br>
+</h2>
+
 ## :octocat: Github Account:
 ## 🔔 Notifications
 ## ⚠️ Warning: 
@@ -50,7 +55,11 @@
 <h2>
    👤 Contact Me (for CV): <br>
    👤 Connect with Me: <br>
-   👤 How to reach Me Me: <br>
+</h2>
+<h2>
+   📫 How to reach Me Me: <br>
+   📫 Get in Touch: <br>
+   📫 Inbox: <br>
 </h2>
 
 ## 📞 Phone Number:
