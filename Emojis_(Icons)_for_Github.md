@@ -19,7 +19,13 @@
 ## 📂 Projects:
 ## 🔤 Interface Languages:
 ## 🖥️ Programming Languages:
-## 🛠 Skills/ Use İt:
+
+<h2>
+   🛠 Skills: <br>
+   🛠 Use İt: <br>
+   🛠 Tech Stack: <br>
+</h2>
+
 ## 💼 Personal Experience:
 ## 🎓 Education:
 ## 🏆 Achievements:
