@@ -3,7 +3,6 @@
 > ©️ **Author:** S-n Amil <br>
 > 📅 **Created Date:** 23.08.2021 <br>
 > 🔄 **Last Updated:** 28.08.2021 <br>
-> 🇦🇿 **Location:** Azerbaijan <br>
 > 🌐 **Website:** www.neansoft.com
 > 
 > ℹ️ **Description:** This Emojis (İcons) are arranged according to the meaning of the words for README.md (Markdown file).
