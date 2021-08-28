@@ -46,6 +46,7 @@ Location: Azebaijan
 
 ## 📊 Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sn-amil&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Amil's github stats](https://github-readme-stats.vercel.app/api?username=sn-amil&theme=radical&show_icons=true)
+![Amil's github stats](https://github-readme-stats.vercel.app/api?username=sn-amil&theme=radical&show_icons=true) <br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sn.amil)
 
 <hr>
