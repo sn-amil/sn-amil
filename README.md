@@ -1,17 +1,16 @@
 <!-- 
-Author: S-n Amil
+Author: A Amil
 Created Date: 30.07.2021
-Last Updated: 24.08.2021
+Last Updated: 05.03.2025
 Location: Azebaijan
 -->
 
 
 ## 👋 Hi  Everyone! Amil Atakishisoy
 
-**About Me: I'm Developer and IT Specialist, Amateur Electronic Engineer. Brithyear: 1997. Nataionality: Azerbaijan/Turk.**
+**A Amil. Nataionality: Azerbaijan.**
 
 ## 📂 Projects:
-> ~ https://www.neansoft.com <br>
 > ~ https://github.com/sn-amil/My-Projects-WEB/ <br>
 > ~ https://github.com/sn-amil/sn-amil/
 
